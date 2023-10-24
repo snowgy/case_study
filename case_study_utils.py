@@ -171,13 +171,14 @@ class CorrCommunity:
     def get_communities(self, G):
         # sort components by the number of correlations in the cluster
         self.comps = nx.community.louvain_communities(G)
-        # tmp = []
-        # for i, comp in enumerate(comps):
-        #     tmp.append(
-        #         (comp, len(self.get_corr_in_a_community(self.filtered_corr, comp)))
-        #     )
-        # tmp = sorted(tmp, key=lambda x: x[1])
-        # self.comps = [x[0] for x in tmp]
+        tmp = []
+        for i, comp in enumerate(self.comps):
+            tmp.append((comp, len(comp)))
+            # tmp.append(
+            #     (comp, len(self.get_corr_in_a_community(self.filtered_corr, comp)))
+            # )
+        tmp = sorted(tmp, key=lambda x: x[1])
+        self.comps = [x[0] for x in tmp]
         all_communities = {}
         for i, comp in enumerate(self.comps):
             community = defaultdict(list)
