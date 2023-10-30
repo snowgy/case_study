@@ -1,26 +1,20 @@
 from typing import List
-from data_model import Unit, Variable, AggFunc, ST_Schema, SchemaType
+from data_model import ST_Schema
 from psycopg2 import sql
-import psycopg2
-from sqlalchemy import create_engine
 import pandas as pd
-from collections import Counter
 
-db_path = "postgresql://yuegong@localhost/chicago_1m"
-db = create_engine(db_path)
-# conn = db.connect()
-conn_copg2 = psycopg2.connect(db_path)
-cur = conn_copg2.cursor()
-
+"""
+api to join two aggregated datasets
+"""
 def join_two_agg_tables(
     cur,
     tbl1: str,
     st_schema1: ST_Schema,
-    vars1: List[Variable],
+    var1: List[str],
     tbl2: str,
     st_schema2: ST_Schema,
-    vars2: List[Variable],
-    outer,
+    var2: List[str],
+    outer=False,
 ):
     agg_tbl1 = st_schema1.get_agg_tbl_name(tbl1)
     agg_tbl2 = st_schema2.get_agg_tbl_name(tbl2)
@@ -40,17 +34,15 @@ def join_two_agg_tables(
         agg_vars=sql.SQL(",").join(
             [
                 sql.SQL("{} AS {}").format(
-                    sql.Identifier("a1", var.var_name[:-3]),
-                    sql.Identifier(var.var_name),
+                    sql.Identifier("a1", var1),
+                    sql.Identifier(var1),
                 )
-                for var in vars1
             ]
             + [
                 sql.SQL("{} AS {}").format(
-                    sql.Identifier("a2", var.var_name[:-3]),
-                    sql.Identifier(var.var_name),
+                    sql.Identifier("a2", var2),
+                    sql.Identifier(var2),
                 )
-                for var in vars2
             ]
         ),
         agg_tbl1=sql.Identifier(agg_tbl1),
