@@ -1,0 +1,240 @@
+tbl_name1,align_attrs1,agg_attr1,missing_ratio1,zero_ratio1,missing_ratio_o1,zero_ratio_o1,cv1,tbl_id2,tbl_name2,align_attrs2,agg_attr2,missing_ratio2,zero_ratio2,missing_ratio_o2,zero_ratio_o2,cv2,r_val,r_impute_avg_val,r_impute_zero_val,p_val,samples,align_type
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,me59-5fac,311 Service Requests - Sanitation Code Complaints - Historical,['location'],count,0.0,0.0,0.0,0.0,0.662,0.423,0,0,0.002,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,me59-5fac,311 Service Requests - Sanitation Code Complaints - Historical,['location'],count,0.0,0.0,0.0,0.0,0.662,0.4,0,0,0.004,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,me59-5fac,311 Service Requests - Sanitation Code Complaints - Historical,['location'],count,0.0,0.0,0.0,0.0,0.662,0.297,0,0,0.037,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.742,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_courts,0.0,0.146,0.0,0.63,0.765,0.321,0,0,0.026,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.742,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_boat_slips,0.0,0.917,0.0,0.99,6.156,0.316,0,0,0.029,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.742,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_handball,0.0,0.896,0.0,0.99,3.37,0.299,0,0,0.039,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.742,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_cricket_field,0.0,0.979,0.0,1.0,6.928,0.533,0,0,0.0,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.742,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_backboards,0.0,0.146,0.0,0.64,0.735,0.341,0,0,0.018,48,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.021,0.0,0.02,1.833,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_courts,0.0,0.146,0.0,0.63,0.765,0.313,0,0,0.03,48,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.021,0.0,0.02,1.833,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_cricket_field,0.0,0.979,0.0,1.0,6.928,0.591,0,0,0.0,48,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.021,0.0,0.02,1.833,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_backboards,0.0,0.146,0.0,0.64,0.735,0.327,0,0,0.023,48,spatial
+asthma,['Zip5'],AttackPer,0.0,0.021,0.0,0.02,0.366,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_courts,0.0,0.146,0.0,0.63,0.765,0.308,0,0,0.033,48,spatial
+asthma,['Zip5'],AttackPer,0.0,0.021,0.0,0.02,0.366,wwy2-k7b3,Parks - Locations (deprecated November 2016),['location'],avg_basketball_backboards,0.0,0.146,0.0,0.64,0.735,0.349,0,0,0.015,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,sxs8-h27x,Chicago Traffic Tracker - Historical Congestion Estimates by Segment - 2018-Current,['start_location'],avg_speed,0.0,0.0,0.0,0.0,0.316,0.372,0,0,0.008,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,sxs8-h27x,Chicago Traffic Tracker - Historical Congestion Estimates by Segment - 2018-Current,['start_location'],avg_speed,0.0,0.0,0.0,0.0,0.316,0.37,0,0,0.008,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,n26f-ihde,Transportation Network Providers - Trips (2023-),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.024,0.548,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,n26f-ihde,Transportation Network Providers - Trips (2023-),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.024,0.546,0,0,0.0,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,n26f-ihde,Transportation Network Providers - Trips (2023-),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.024,0.371,0,0,0.009,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,n26f-ihde,Transportation Network Providers - Trips (2023-),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.022,0.541,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,n26f-ihde,Transportation Network Providers - Trips (2023-),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.022,0.534,0,0,0.0,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,n26f-ihde,Transportation Network Providers - Trips (2023-),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.022,0.354,0,0,0.013,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,3aav-uy2v,311 Service Requests - Street Lights - One Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.744,0.532,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,3aav-uy2v,311 Service Requests - Street Lights - One Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.744,0.477,0,0,0.0,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,wrvz-psew,Taxi Trips,['dropoff_centroid_location'],avg_trip_miles,0.0,0.0,0.0,0.1,0.245,0.383,0,0,0.007,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,wrvz-psew,Taxi Trips,['dropoff_centroid_location'],avg_fare,0.0,0.0,0.0,0.0,0.205,0.369,0,0,0.009,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,wrvz-psew,Taxi Trips,['dropoff_centroid_location'],avg_trip_miles,0.0,0.0,0.0,0.1,0.245,0.356,0,0,0.012,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,wrvz-psew,Taxi Trips,['dropoff_centroid_location'],avg_fare,0.0,0.0,0.0,0.0,0.205,0.342,0,0,0.016,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,wrvz-psew,Taxi Trips,['pickup_centroid_location'],avg_trip_miles,0.0,0.0,0.0,0.1,0.33,0.347,0,0,0.014,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,wrvz-psew,Taxi Trips,['pickup_centroid_location'],avg_fare,0.0,0.0,0.0,0.0,0.252,0.341,0,0,0.017,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,wrvz-psew,Taxi Trips,['pickup_centroid_location'],avg_trip_miles,0.0,0.0,0.0,0.1,0.33,0.315,0,0,0.028,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,wrvz-psew,Taxi Trips,['pickup_centroid_location'],avg_fare,0.0,0.0,0.0,0.0,0.252,0.308,0,0,0.031,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,7as2-ds3y,311 Service Requests - Pot Holes Reported - Historical,['location'],avg_number_of_potholes_filled_on_block,0.0,0.0,0.29,0.15,0.26,0.651,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,7as2-ds3y,311 Service Requests - Pot Holes Reported - Historical,['location'],avg_number_of_potholes_filled_on_block,0.0,0.0,0.29,0.15,0.26,0.632,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,7as2-ds3y,311 Service Requests - Pot Holes Reported - Historical,['location'],avg_number_of_potholes_filled_on_block,0.0,0.0,0.29,0.15,0.26,0.329,0,0,0.02,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,w4qj-h7bg,Chicago Public Schools - School Profile Information SY1718,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.706,0.669,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,w4qj-h7bg,Chicago Public Schools - School Profile Information SY1718,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.706,0.652,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,w4qj-h7bg,Chicago Public Schools - School Profile Information SY1718,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.706,0.357,0,0,0.015,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,p83k-txqt,Chicago Public Schools - School Locations SY2021,['the_geom'],count,0.0,0.0,0.0,0.0,0.589,0.301,0,0,0.042,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,p83k-txqt,Chicago Public Schools - School Locations SY2021,['the_geom'],count,0.0,0.0,0.0,0.0,0.589,0.33,0,0,0.025,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,wkiz-8iya,Chicago Public Schools - School Progress Reports SY1718,['location'],avg_mobility_rate_pct,0.0,0.0,0.05,0.0,0.505,0.525,0,0,0.0,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,wkiz-8iya,Chicago Public Schools - School Progress Reports SY1718,['location'],avg_school_survey_teacher_response_rate_pct,0.0,0.0,0.01,0.0,0.073,0.291,0,0,0.05,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,wkiz-8iya,Chicago Public Schools - School Progress Reports SY1718,['location'],avg_mobility_rate_pct,0.0,0.0,0.05,0.0,0.505,0.526,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,wkiz-8iya,Chicago Public Schools - School Progress Reports SY1718,['location'],avg_mobility_rate_pct,0.0,0.0,0.05,0.0,0.505,0.338,0,0,0.022,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,dpkg-upyz,Chicago Microlending Institute (CMI) Microloans,['location'],count,0.0,0.0,0.0,0.0,0.619,0.398,0,0,0.006,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.787,dpkg-upyz,Chicago Microlending Institute (CMI) Microloans,['location'],count,0.0,0.0,0.0,0.0,0.619,0.356,0,0,0.015,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,zuxi-7xem,311 Service Requests - Street Lights - All Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.788,0.587,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,zuxi-7xem,311 Service Requests - Street Lights - All Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.788,0.531,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.32,iekz-rtng,Financial Incentive Projects - (TIF-Funded) Economic Development,['location'],avg_wbe_participation,0.808,0.0,0.88,0.0,0.342,0.405,0,0,0.04,26,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.343,6rq2-yx28,Array of Things Locations,['location'],count,0.0,0.0,0.0,0.0,0.774,0.346,0,0,0.036,37,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,gqgn-ekwj,Chicago Public Schools - School Locations SY2223,['the_geom'],count,0.0,0.0,0.0,0.0,0.587,0.298,0,0,0.044,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,gqgn-ekwj,Chicago Public Schools - School Locations SY2223,['the_geom'],count,0.0,0.0,0.0,0.0,0.587,0.322,0,0,0.029,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.629,3rse-fbp6,E-Scooter Trips - 2020,['start_centroid_location'],avg_trip_duration,0.0,0.0,0.0,0.0,0.307,0.369,0,0,0.015,43,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.713,3rse-fbp6,E-Scooter Trips - 2020,['start_centroid_location'],avg_trip_duration,0.0,0.0,0.0,0.0,0.307,0.347,0,0,0.023,43,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2013,0.0,0.0,0.14,0.0,0.964,0.626,0,0,0.0,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_percentage_misconducts_resulting_in_suspension_2013,0.0,0.0,0.18,0.0,0.274,0.375,0,0,0.01,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_average_length_of_suspensions_2013,0.0,0.0,0.18,0.0,0.154,0.462,0,0,0.001,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_probation_length,0.304,0.0,0.67,0.0,0.457,0.488,0,0,0.001,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2012,0.0,0.0,0.16,0.0,0.883,0.617,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2013,0.0,0.0,0.14,0.0,0.964,0.629,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_percentage_misconducts_resulting_in_suspension_2013,0.0,0.0,0.18,0.0,0.274,0.37,0,0,0.011,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_average_length_of_suspensions_2013,0.0,0.0,0.18,0.0,0.154,0.464,0,0,0.001,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_probation_length,0.304,0.0,0.67,0.0,0.457,0.492,0,0,0.001,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2012,0.0,0.0,0.16,0.0,0.883,0.629,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2013,0.0,0.0,0.14,0.0,0.964,0.498,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_average_length_of_suspensions_2013,0.0,0.0,0.18,0.0,0.154,0.3,0,0,0.043,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_average_length_of_suspension_2012,0.022,0.0,0.23,0.0,0.167,0.292,0,0,0.049,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_probation_length,0.304,0.0,0.67,0.0,0.457,0.505,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tj8h-mnuv,Chicago Public Schools - Elementary School Progress Report (2013-2014),['location'],avg_suspensions_per_100_students_2012,0.0,0.0,0.16,0.0,0.883,0.511,0,0,0.0,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.77,5cq6-qygt,CTA - System Information - Bus Stop Locations in Digital Sign Project,['location'],count,0.0,0.0,0.0,0.0,0.622,0.395,0,0,0.005,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.86,5cq6-qygt,CTA - System Information - Bus Stop Locations in Digital Sign Project,['location'],count,0.0,0.0,0.0,0.0,0.622,0.377,0,0,0.008,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_household_composition,0.14,0.02,0.43,0.01,0.648,0.555,0,0,0.0,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_ccvi_score,0.0,0.0,0.0,0.0,0.467,0.356,0,0,0.011,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_age_65_plus,0.14,0.0,0.43,0.01,0.563,0.414,0,0,0.003,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_socioeconomic_status,0.14,0.0,0.43,0.01,0.618,0.41,0,0,0.003,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_household_composition,0.14,0.02,0.43,0.01,0.648,0.547,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_ccvi_score,0.0,0.0,0.0,0.0,0.467,0.349,0,0,0.013,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_age_65_plus,0.14,0.0,0.43,0.01,0.563,0.393,0,0,0.005,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_socioeconomic_status,0.14,0.0,0.43,0.01,0.618,0.416,0,0,0.003,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_household_composition,0.14,0.02,0.43,0.01,0.648,0.298,0,0,0.035,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,xhc6-88s9,Chicago COVID-19 Community Vulnerability Index (CCVI),['location'],avg_rank_socioeconomic_status,0.14,0.0,0.43,0.01,0.618,0.302,0,0,0.033,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.288,rym7-49n8,Financial Incentive Projects - Neighborhood Opportunity Fund (NOF) Small,['location'],avg_total_project_cost,0.0,0.0,0.0,0.0,0.647,0.476,0,0,0.046,18,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,cp7s-7gxg,Chicago Public Schools - School Progress Reports SY1617,['location'],avg_mobility_rate_pct,0.0,0.0,0.18,0.0,0.462,0.663,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,cp7s-7gxg,Chicago Public Schools - School Progress Reports SY1617,['location'],avg_mobility_rate_pct,0.0,0.0,0.18,0.0,0.462,0.667,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,cp7s-7gxg,Chicago Public Schools - School Progress Reports SY1617,['location'],avg_mobility_rate_pct,0.0,0.0,0.18,0.0,0.462,0.45,0,0,0.002,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,8i6r-et8s,Chicago Public Schools - School Profile Information SY1617,['location'],avg_student_count_black,0.0,0.0,0.0,0.0,0.705,0.663,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,8i6r-et8s,Chicago Public Schools - School Profile Information SY1617,['location'],avg_student_count_black,0.0,0.0,0.0,0.0,0.705,0.648,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,8i6r-et8s,Chicago Public Schools - School Profile Information SY1617,['location'],avg_student_count_black,0.0,0.0,0.0,0.0,0.705,0.351,0,0,0.017,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,85ca-t3if,Traffic Crashes - Crashes,['location'],avg_injuries_incapacitating,0.0,0.0,0.0,0.98,0.257,0.432,0,0,0.002,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,85ca-t3if,Traffic Crashes - Crashes,['location'],avg_injuries_total,0.0,0.0,0.0,0.86,0.261,0.563,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,85ca-t3if,Traffic Crashes - Crashes,['location'],avg_injuries_incapacitating,0.0,0.0,0.0,0.98,0.257,0.453,0,0,0.001,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,85ca-t3if,Traffic Crashes - Crashes,['location'],avg_injuries_total,0.0,0.0,0.0,0.86,0.261,0.577,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,85ca-t3if,Traffic Crashes - Crashes,['location'],avg_injuries_total,0.0,0.0,0.0,0.86,0.261,0.302,0,0,0.033,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,yhhz-zm2v,"COVID-19 Cases, Tests, and Deaths by ZIP Code",['zip_code_location'],avg_death_rate_weekly,0.0,0.02,0.0,0.67,0.452,0.324,0,0,0.022,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,yhhz-zm2v,"COVID-19 Cases, Tests, and Deaths by ZIP Code",['zip_code_location'],avg_death_rate_weekly,0.0,0.02,0.0,0.67,0.452,0.316,0,0,0.025,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,fvrx-esxp,Chicago Public Schools - School Progress Reports SY1516,['location'],avg_mobility_rate_pct,0.0,0.0,0.19,0.0,0.467,0.654,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,fvrx-esxp,Chicago Public Schools - School Progress Reports SY1516,['location'],avg_mobility_rate_pct,0.0,0.0,0.19,0.0,0.467,0.654,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,fvrx-esxp,Chicago Public Schools - School Progress Reports SY1516,['location'],avg_mobility_rate_pct,0.0,0.0,0.19,0.0,0.467,0.444,0,0,0.002,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,7nii-7srd,311 Service Requests - Vacant and Abandoned Buildings Reported - Historical,['location'],count,0.0,0.0,0.0,0.0,1.327,0.599,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,7nii-7srd,311 Service Requests - Vacant and Abandoned Buildings Reported - Historical,['location'],count,0.0,0.0,0.0,0.0,1.327,0.588,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,7nii-7srd,311 Service Requests - Vacant and Abandoned Buildings Reported - Historical,['location'],count,0.0,0.0,0.0,0.0,1.327,0.378,0,0,0.007,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,a9u4-3dwb,CDPH Environmental Records Lookup Table,['location'],count,0.0,0.0,0.0,0.0,0.546,0.34,0,0,0.016,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.27,crg5-4zyp,Building Code Scofflaw List,['location'],count,0.0,0.0,0.0,0.0,0.816,0.43,0,0,0.02,29,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.334,crg5-4zyp,Building Code Scofflaw List,['location'],count,0.0,0.0,0.0,0.0,0.816,0.478,0,0,0.009,29,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.283,crg5-4zyp,Building Code Scofflaw List,['location'],count,0.0,0.0,0.0,0.0,0.816,0.384,0,0,0.04,29,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,83yd-jxxw,Chicago Public Schools - School Profile Information SY2021,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.71,0.667,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,83yd-jxxw,Chicago Public Schools - School Profile Information SY2021,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.71,0.653,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,83yd-jxxw,Chicago Public Schools - School Profile Information SY2021,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.71,0.36,0,0,0.014,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,gzaz-isa6,Traffic Crashes - Vision Zero Chicago Traffic Fatalities,['geocoded_column'],count,0.0,0.0,0.0,0.0,0.752,0.466,0,0,0.001,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,gzaz-isa6,Traffic Crashes - Vision Zero Chicago Traffic Fatalities,['geocoded_column'],count,0.0,0.0,0.0,0.0,0.752,0.435,0,0,0.002,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,b5gj-d4r4,Chicago Public Schools – Elementary School Progress Report Card (2012-2013),['location'],avg_misconducts_resulting_in_suspensions_2011_percent,0.0,0.0,0.1,0.0,0.283,0.36,0,0,0.014,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,b5gj-d4r4,Chicago Public Schools – Elementary School Progress Report Card (2012-2013),['location'],avg_years_on_probation,0.0,0.304,0.0,0.58,1.096,0.609,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,b5gj-d4r4,Chicago Public Schools – Elementary School Progress Report Card (2012-2013),['location'],avg_misconducts_resulting_in_suspensions_2011_percent,0.0,0.0,0.1,0.0,0.283,0.354,0,0,0.016,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,b5gj-d4r4,Chicago Public Schools – Elementary School Progress Report Card (2012-2013),['location'],avg_years_on_probation,0.0,0.304,0.0,0.58,1.096,0.631,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,b5gj-d4r4,Chicago Public Schools – Elementary School Progress Report Card (2012-2013),['location'],avg_years_on_probation,0.0,0.304,0.0,0.58,1.096,0.507,0,0,0.0,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,tz49-n8ze,Chicago Public Schools - School Locations SY1920,['the_geom'],count,0.0,0.0,0.0,0.0,0.59,0.299,0,0,0.043,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,tz49-n8ze,Chicago Public Schools - School Locations SY1920,['the_geom'],count,0.0,0.0,0.0,0.0,0.59,0.331,0,0,0.025,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,2dem-8rq7,Chicago Public Schools - School Profile Information SY2122,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.708,0.662,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,2dem-8rq7,Chicago Public Schools - School Profile Information SY2122,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.708,0.645,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,2dem-8rq7,Chicago Public Schools - School Profile Information SY2122,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.708,0.346,0,0,0.019,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,6br9-quuz,Ordinance Violations,['location'],avg_imposed_fine,0.0,0.0,0.0,0.5,0.449,0.524,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,6br9-quuz,Ordinance Violations,['location'],avg_imposed_fine,0.0,0.0,0.0,0.5,0.449,0.512,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,6br9-quuz,Ordinance Violations,['location'],avg_imposed_fine,0.0,0.0,0.0,0.5,0.449,0.326,0,0,0.021,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,cygx-ui4j,Dig Ticket Notifications,['location'],count,0.0,0.0,0.0,0.0,0.556,0.56,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,cygx-ui4j,Dig Ticket Notifications,['location'],count,0.0,0.0,0.0,0.0,0.556,0.553,0,0,0.0,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.797,hhkd-xvj4,Speed Camera Violations,['location'],avg_violations,0.0,0.0,0.0,0.0,0.653,0.325,0,0,0.038,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.905,hhkd-xvj4,Speed Camera Violations,['location'],avg_violations,0.0,0.0,0.0,0.0,0.653,0.321,0,0,0.04,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.517,kf7e-cur8,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2018-Current,['nw_location'],avg_speed,0.0,0.0,0.0,0.08,0.124,0.562,0,0,0.019,17,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.059,0.0,0.02,1.503,kf7e-cur8,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2018-Current,['nw_location'],avg_speed,0.0,0.0,0.0,0.08,0.124,0.536,0,0,0.027,17,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.205,kf7e-cur8,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2018-Current,['se_location'],avg_speed,0.0,0.0,0.0,0.08,0.117,0.521,0,0,0.022,19,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.218,kf7e-cur8,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2018-Current,['se_location'],avg_speed,0.0,0.0,0.0,0.08,0.117,0.519,0,0,0.023,19,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.306,kf7e-cur8,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2018-Current,['se_location'],avg_speed,0.0,0.0,0.0,0.08,0.117,0.573,0,0,0.01,19,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.535,qemx-3d9f,Chicago Public Schools – High School Progress Report Card (2012-2013),['location'],avg_years_on_probation,0.0,0.256,0.0,0.42,0.783,0.334,0,0,0.038,39,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.616,qemx-3d9f,Chicago Public Schools – High School Progress Report Card (2012-2013),['location'],avg_years_on_probation,0.0,0.256,0.0,0.42,0.783,0.337,0,0,0.036,39,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.339,qemx-3d9f,Chicago Public Schools – High School Progress Report Card (2012-2013),['location'],avg_teacher_attendance_2012_percent,0.026,0.0,0.05,0.0,0.007,0.323,0,0,0.045,39,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.339,qemx-3d9f,Chicago Public Schools – High School Progress Report Card (2012-2013),['location'],avg_teacher_attendance_2011_percent,0.026,0.0,0.08,0.0,0.006,0.324,0,0,0.044,39,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,9a5f-2r4p,Chicago Public Schools - School Profile Information SY2223,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.707,0.667,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,9a5f-2r4p,Chicago Public Schools - School Profile Information SY2223,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.707,0.651,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,9a5f-2r4p,Chicago Public Schools - School Profile Information SY2223,['location'],avg_student_count_black,0.0,0.0,0.0,0.01,0.707,0.347,0,0,0.018,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,uxic-zsuj,311 Service Requests - Tree Trims - Historical,['location'],count,0.0,0.0,0.0,0.0,0.652,0.321,0,0,0.023,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,x2n5-8w5q,Crimes - One year prior to present,['location'],count,0.0,0.0,0.0,0.0,0.552,0.595,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,x2n5-8w5q,Crimes - One year prior to present,['location'],count,0.0,0.0,0.0,0.0,0.552,0.57,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,x2n5-8w5q,Crimes - One year prior to present,['location'],count,0.0,0.0,0.0,0.0,0.552,0.323,0,0,0.022,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,22u3-xenr,Building Violations,['location'],count,0.0,0.0,0.0,0.0,0.656,0.558,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,22u3-xenr,Building Violations,['location'],count,0.0,0.0,0.0,0.0,0.656,0.55,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,22u3-xenr,Building Violations,['location'],count,0.0,0.0,0.0,0.0,0.656,0.361,0,0,0.01,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,gumc-mgzr,Violence Reduction - Victims of Homicides and Non-Fatal Shootings,['location'],count,0.0,0.0,0.0,0.0,1.082,0.521,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,gumc-mgzr,Violence Reduction - Victims of Homicides and Non-Fatal Shootings,['location'],count,0.0,0.0,0.0,0.0,1.082,0.52,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,gumc-mgzr,Violence Reduction - Victims of Homicides and Non-Fatal Shootings,['location'],count,0.0,0.0,0.0,0.0,1.082,0.344,0,0,0.015,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.318,3h7q-7mdb,Violence Reduction - Shotspotter Alerts,['location'],avg_rounds,0.0,0.0,0.0,0.0,0.16,0.514,0,0,0.003,31,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,8vvr-jv2g,Influenza Risk Level by ZIP Code,['zip_code_location'],avg_ili_activity_level,0.0,0.0,0.0,0.0,0.244,0.481,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,8vvr-jv2g,Influenza Risk Level by ZIP Code,['zip_code_location'],avg_ili_activity_level,0.0,0.0,0.0,0.0,0.244,0.48,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,qhb4-qx8k,CDPH Asbestos and Demolition Notification,['location'],count,0.0,0.0,0.0,0.0,0.651,0.381,0,0,0.006,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_1_reading,0.083,0.0,0.35,0.0,0.522,0.636,0,0,0.026,12,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_2_reading,0.083,0.0,0.36,0.0,0.522,0.636,0,0,0.026,12,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_reading_mean,0.083,0.0,0.35,0.0,0.523,0.626,0,0,0.03,12,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_interval,0.083,0.0,0.95,0.0,0.494,0.825,0,0,0.001,12,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_1_reading,0.083,0.0,0.35,0.0,0.522,0.605,0,0,0.037,12,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_2_reading,0.083,0.0,0.36,0.0,0.522,0.61,0,0,0.035,12,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_reading_mean,0.083,0.0,0.35,0.0,0.523,0.6,0,0,0.039,12,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_interval,0.083,0.0,0.95,0.0,0.494,0.801,0,0,0.002,12,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.743,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.5,0,0,0.0,48,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.021,0.0,0.02,1.835,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.463,0,0,0.001,48,spatial
+asthma,['Zip5'],AttackPer,0.0,0.021,0.0,0.02,0.37,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.296,0,0,0.041,48,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,mab8-y9h3,311 Service Requests - Tree Debris - Historical,['location'],count,0.0,0.0,0.0,0.0,1.044,0.489,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,mab8-y9h3,311 Service Requests - Tree Debris - Historical,['location'],count,0.0,0.0,0.0,0.0,1.044,0.42,0,0,0.002,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_general_services_route_,0.0,0.0,0.0,0.0,0.165,0.638,0,0,0.0,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_rate_of_misconducts_per_100_students_,0.0,0.0,0.0,0.02,0.614,0.539,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_general_services_route_,0.0,0.0,0.0,0.0,0.165,0.603,0,0,0.0,46,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.022,0.0,0.02,1.788,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_rate_of_misconducts_per_100_students_,0.0,0.0,0.0,0.02,0.614,0.547,0,0,0.0,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_general_services_route_,0.0,0.0,0.0,0.0,0.165,0.37,0,0,0.011,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_average_teacher_attendance,0.0,0.0,0.0,0.01,0.045,0.367,0,0,0.012,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,9xs2-f89t,Chicago Public Schools - Progress Report Cards (2011-2012),['location'],avg_rate_of_misconducts_per_100_students_,0.0,0.0,0.0,0.02,0.614,0.438,0,0,0.002,46,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,wqdh-9gek,Potholes Patched,['location'],avg_number_of_potholes_filled_on_block,0.0,0.0,0.0,0.0,0.238,0.598,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,wqdh-9gek,Potholes Patched,['location'],avg_number_of_potholes_filled_on_block,0.0,0.0,0.0,0.0,0.238,0.564,0,0,0.0,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,ijzp-q8t2,Crimes - 2001 to Present,['location'],count,0.0,0.0,0.0,0.0,0.605,0.56,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,ijzp-q8t2,Crimes - 2001 to Present,['location'],count,0.0,0.0,0.0,0.0,0.605,0.54,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,ijzp-q8t2,Crimes - 2001 to Present,['location'],count,0.0,0.0,0.0,0.0,0.605,0.32,0,0,0.023,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.104,0.395,0,0,0.005,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.104,0.404,0,0,0.004,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['pickup_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.104,0.318,0,0,0.026,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.095,0.363,0,0,0.01,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.095,0.374,0,0,0.008,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,m6dm-c72p,Transportation Network Providers - Trips (2018 - 2022),['dropoff_centroid_location'],avg_trips_pooled,0.0,0.0,0.0,0.0,0.095,0.292,0,0,0.042,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.818,ckau-pphs,Back To School Immunization Locations,['location_1'],count,0.0,0.0,0.0,0.0,0.418,0.453,0,0,0.039,21,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,bi66-5gy5,Police ANOV/Misdemeanor Report - ANOVs,['location'],count,0.0,0.0,0.0,0.0,0.863,0.404,0,0,0.004,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,bi66-5gy5,Police ANOV/Misdemeanor Report - ANOVs,['location'],count,0.0,0.0,0.0,0.0,0.863,0.424,0,0,0.002,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,bi66-5gy5,Police ANOV/Misdemeanor Report - ANOVs,['location'],count,0.0,0.0,0.0,0.0,0.863,0.356,0,0,0.011,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,yqn4-3th2,CDPH Environmental Enforcement,['location'],avg_fine_amount,0.0,0.0,0.12,0.11,0.346,0.304,0,0,0.032,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,yqn4-3th2,CDPH Environmental Enforcement,['location'],avg_fine_amount,0.0,0.0,0.12,0.11,0.346,0.315,0,0,0.026,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,aksk-kvfp,City-Owned Land Inventory,['location'],avg_land_value,0.54,0.0,0.82,0.0,1.15,0.345,0,0,0.014,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,aksk-kvfp,City-Owned Land Inventory,['location'],avg_square_footage_city_estimate,0.62,0.0,0.82,0.0,0.351,0.679,0,0,0.0,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,aksk-kvfp,City-Owned Land Inventory,['location'],avg_land_value,0.54,0.0,0.82,0.0,1.15,0.35,0,0,0.013,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,aksk-kvfp,City-Owned Land Inventory,['location'],avg_square_footage_city_estimate,0.62,0.0,0.82,0.0,0.351,0.652,0,0,0.0,50,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,aksk-kvfp,City-Owned Land Inventory,['location'],avg_square_footage_city_estimate,0.62,0.0,0.82,0.0,0.351,0.352,0,0,0.012,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_victim_battery_or_assault,0.0,0.0,0.0,0.97,0.391,0.644,0,0,0.0,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_domestic_arr_cnt,0.0,0.0,0.83,0.0,0.051,0.518,0,0,0.0,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_uuw_arrests,0.0,0.0,0.0,0.97,0.515,0.776,0,0,0.0,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_gang_affiliation,0.0,0.0,0.0,0.84,0.482,0.498,0,0,0.0,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_weapons_arr_cnt,0.0,0.0,0.95,0.0,0.059,0.318,0,0,0.026,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.766,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_arrests_violent_offenses,0.0,0.0,0.0,0.91,0.341,0.793,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_victim_battery_or_assault,0.0,0.0,0.0,0.97,0.391,0.643,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_domestic_arr_cnt,0.0,0.0,0.83,0.0,0.051,0.512,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_uuw_arrests,0.0,0.0,0.0,0.97,0.515,0.759,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_gang_affiliation,0.0,0.0,0.0,0.84,0.482,0.507,0,0,0.0,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_weapons_arr_cnt,0.0,0.0,0.95,0.0,0.059,0.311,0,0,0.029,49,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.859,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_arrests_violent_offenses,0.0,0.0,0.0,0.91,0.341,0.782,0,0,0.0,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_victim_battery_or_assault,0.0,0.0,0.0,0.97,0.391,0.464,0,0,0.001,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_domestic_arr_cnt,0.0,0.0,0.83,0.0,0.051,0.4,0,0,0.004,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_uuw_arrests,0.0,0.0,0.0,0.97,0.515,0.442,0,0,0.001,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_gang_affiliation,0.0,0.0,0.0,0.84,0.482,0.449,0,0,0.001,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_weapons_arr_cnt,0.0,0.0,0.95,0.0,0.059,0.295,0,0,0.04,49,spatial
+asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.383,4aki-r3np,Strategic Subject List - Historical,['location'],avg_predictor_rat_arrests_violent_offenses,0.0,0.0,0.0,0.91,0.341,0.484,0,0,0.0,49,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_growth_grade_6,0.805,0.024,0.96,0.01,1.315,0.67,0,0,0.0,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_suspensions_per_100_2012,0.024,0.0,0.46,0.0,0.717,0.441,0,0,0.004,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_attainment_percentile_grade_6,0.805,0.0,0.96,0.0,1.051,0.636,0,0,0.0,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_growth_grade_7,0.659,0.0,0.91,0.01,0.717,0.356,0,0,0.022,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_all_grades,0.61,0.024,0.9,0.01,0.612,0.318,0,0,0.043,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_grade_6,0.805,0.0,0.96,0.0,0.948,0.684,0,0,0.0,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_attainment_percentile_grade_6,0.805,0.0,0.96,0.0,1.356,0.579,0,0,0.0,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_suspensions_per_100_2013,0.0,0.0,0.44,0.0,0.741,0.519,0,0,0.001,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_grade_7,0.659,0.0,0.91,0.01,0.408,0.355,0,0,0.023,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_probation_length,0.39,0.0,0.78,0.0,0.466,0.44,0,0,0.004,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.583,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_attainment_percentile_all_grades,0.61,0.0,0.9,0.0,0.638,0.322,0,0,0.04,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_growth_grade_6,0.805,0.024,0.96,0.01,1.315,0.69,0,0,0.0,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_suspensions_per_100_2012,0.024,0.0,0.46,0.0,0.717,0.44,0,0,0.004,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_attainment_percentile_grade_6,0.805,0.0,0.96,0.0,1.051,0.647,0,0,0.0,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_growth_grade_7,0.659,0.0,0.91,0.01,0.717,0.39,0,0,0.012,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_all_grades,0.61,0.024,0.9,0.01,0.612,0.358,0,0,0.022,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_grade_6,0.805,0.0,0.96,0.0,0.948,0.725,0,0,0.0,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_math_attainment_percentile_grade_6,0.805,0.0,0.96,0.0,1.356,0.578,0,0,0.0,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_suspensions_per_100_2013,0.0,0.0,0.44,0.0,0.741,0.523,0,0,0.0,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_grade_7,0.659,0.0,0.91,0.01,0.408,0.396,0,0,0.01,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_probation_length,0.39,0.0,0.78,0.0,0.466,0.432,0,0,0.005,41,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.665,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_attainment_percentile_all_grades,0.61,0.0,0.9,0.0,0.638,0.313,0,0,0.046,41,spatial
+asthma,['Zip5'],AttackPer,0.0,0.0,0.0,0.02,0.331,2m8w-izji,Chicago Public Schools - High School Progress Report (2013-2014),['location'],avg_nwea_reading_growth_percentile_grade_6,0.805,0.0,0.96,0.0,0.948,0.361,0,0,0.021,41,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.786,t28b-ys7j,311 Service Requests - Alley Lights Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.842,0.385,0,0,0.006,50,spatial
+asthma,['Zip5'],encAsthmaExac,0.0,0.02,0.0,0.02,1.88,t28b-ys7j,311 Service Requests - Alley Lights Out - Historical,['location'],count,0.0,0.0,0.0,0.0,0.842,0.328,0,0,0.02,50,spatial
+asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.697,vfmh-nkyk,Chicago Public Schools - School Locations SY2122,['the_geom'],count,0.0,0.0,0.0,0.0,0.586,0.303,0,0,0.041,46,spatial
+asthma,['Zip5'],AttackPer,0.0,0.022,0.0,0.02,0.372,vfmh-nkyk,Chicago Public Schools - School Locations SY2122,['the_geom'],count,0.0,0.0,0.0,0.0,0.586,0.317,0,0,0.032,46,spatial
