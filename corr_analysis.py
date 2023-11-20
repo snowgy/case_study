@@ -53,13 +53,21 @@ def get_aligned_results(cur, row, t_granu: T_GRANU, s_granu: S_GRANU):
         st_schema2 = ST_Schema(t_unit=Unit(corr.align_attrs2[0], t_granu),
                                s_unit=Unit(corr.align_attrs2[1], s_granu))
     
+    unagg_flag = False
+    if corr.agg_attr1[0:4] != 'avg_':
+        corr.agg_attr1 = 'avg_' + corr.agg_attr1
+        unagg_flag = True
+        
     df = join_two_agg_tables(cur, 
                         corr.tbl_id1, st_schema1, corr.agg_attr1, 
                         corr.tbl_id2, st_schema2, corr.agg_attr2)
     df[corr.agg_attr1] = df[corr.agg_attr1].astype(float)
+    if unagg_flag:
+        df = df.rename(columns={corr.agg_attr1: corr.agg_attr1[4:]})
     df[corr.agg_attr2] = df[corr.agg_attr2].astype(float)
-    corr, p_value = pearsonr(df[corr.agg_attr1], df[corr.agg_attr2])
-    return df, corr, p_value
+#     corr, p_value = pearsonr(df[corr.agg_attr1], df[corr.agg_attr2])
+#     return df, corr, p_value
+    return df
 
 if __name__ == "__main__":
     db_path = "postgresql://yuegong@localhost/chicago_1m"

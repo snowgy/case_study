@@ -3,6 +3,25 @@ from IPython.display import display, clear_output
 from case_study_utils import CorrCommunity
 import qgrid
 
+def show_df(df):
+    display_attrs = [
+        "tbl_name1",
+        "align_attrs1",
+        "agg_attr1",
+        "tbl_id2",
+        "tbl_name2",
+        "align_attrs2",
+        "agg_attr2",
+        "missing_ratio_o2",
+        "r_val",
+        "samples",
+    ]
+    qgrid_widget = qgrid.show_grid(
+        df[display_attrs],
+        precision=2,
+        grid_options={"forceFitColumns": False, "defaultColumnWidth": 150},
+    )
+    display(qgrid_widget)
 
 def show_communities(corr_community: CorrCommunity, show_corr_in_same_tbl):
     clusters = corr_community.all_communities
@@ -77,6 +96,7 @@ def show_communities(corr_community: CorrCommunity, show_corr_in_same_tbl):
             with cnt_output:
                 clear_output(wait=True)
                 display(f"#filtered rows: {len(qgrid_widget.get_changed_df())}")
+            print("should display")
             display(qgrid_widget)
             display(cnt_output)
 

@@ -154,11 +154,9 @@ asthma,asthma,['Zip5'],AttackPer,0.0,0.02,0.0,0.02,0.38,qhb4-qx8k,CDPH Asbestos 
 asthma,asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_1_reading,0.083,0.0,0.35,0.0,0.522,0.636,0,0,0.026,12,spatial
 asthma,asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_2_reading,0.083,0.0,0.36,0.0,0.522,0.636,0,0,0.026,12,spatial
 asthma,asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_reading_mean,0.083,0.0,0.35,0.0,0.523,0.626,0,0,0.03,12,spatial
-asthma,asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.505,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_interval,0.083,0.0,0.95,0.0,0.494,0.825,0,0,0.001,12,spatial
 asthma,asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_1_reading,0.083,0.0,0.35,0.0,0.522,0.605,0,0,0.037,12,spatial
 asthma,asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_2_reading,0.083,0.0,0.36,0.0,0.522,0.61,0,0,0.035,12,spatial
 asthma,asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_reading_mean,0.083,0.0,0.35,0.0,0.523,0.6,0,0,0.039,12,spatial
-asthma,asthma,['Zip5'],encAsthmaExac,0.0,0.0,0.0,0.02,1.592,2ivx-z93u,Beach Lab Data,['location'],avg_culture_sample_interval,0.083,0.0,0.95,0.0,0.494,0.801,0,0,0.002,12,spatial
 asthma,asthma,['Zip5'],enc_asthma,0.0,0.0,0.0,0.0,1.743,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.5,0,0,0.0,48,spatial
 asthma,asthma,['Zip5'],encAsthmaExac,0.0,0.021,0.0,0.02,1.835,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.463,0,0,0.001,48,spatial
 asthma,asthma,['Zip5'],AttackPer,0.0,0.021,0.0,0.02,0.37,y7qa-tvqx,Parks - Facilities & Features (deprecated November 2016),['location'],count,0.0,0.0,0.0,0.0,0.553,0.296,0,0,0.041,48,spatial
