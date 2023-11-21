@@ -14,6 +14,7 @@ def show_df(df):
         "agg_attr2",
         "missing_ratio_o2",
         "r_val",
+        "r_abs",
         "samples",
     ]
     qgrid_widget = qgrid.show_grid(
